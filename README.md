@@ -30,7 +30,7 @@ Interested in computer science and more specifically in data engineering and art
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Stats :bar_chart:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vectypus&hide=jupyter%20notebook&layout=compact&theme=vue-dark&langs_count=4)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTaillieu&hide=jupyter%20notebook&layout=compact&theme=vue-dark&langs_count=4)
 
 ### Contact :mailbox:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-taillieu)
