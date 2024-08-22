@@ -29,9 +29,6 @@ Interested in computer science and more specifically in data engineering and art
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Stats :bar_chart:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTaillieu&hide=jupyter%20notebook&layout=compact&theme=vue-dark&langs_count=4)
-
 ### Contact :mailbox:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-taillieu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VictorTaillieu)
